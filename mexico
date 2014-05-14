@@ -86,8 +86,9 @@ http://video.stream.mx:1935/8060/8060/playlist.m3u8
 <item>...</item>
 <item>
 <title>Telemundo HD</title>
-<link>10 conn=S:OK swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=true timeout=15 pageUrl=http://vaughnlive.tv/embed/video/telemundo10?viewers=true&watermark=left&autoplay=true
-<regex>
+<link>
+rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo10 conn=S:OK swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=true timeout=15 pageUrl=http://vaughnlive.tv/embed/video/telemundo10?viewers=true&watermark=left&autoplay=true
+<link>
 rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo
 <name>file</name>
 <expres>'file': '([^']*)</expres>
