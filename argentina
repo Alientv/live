@@ -12,7 +12,7 @@
 
 <item>
 <title>Telefe</title>
-<link>rtmp://rtmp://208.43.81.145/zenex playpath=telefe1234?id=3085 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=1 pageUrl=http://www.zenex.tv/embedplayer/telefe1234/1/530/380 Conn=S:OK</link>
+<link>rtmp://rtmp://208.43.81.145/zenex playpath=telefe1234?id=3085 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=1 pageUrl=http://www.zenex.tv/embedplayer/telefe1234/1/530/380</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/telefe.png</thumbnail>
 </item>
 
