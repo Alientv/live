@@ -52,7 +52,7 @@ http://www.tv14.net/wp-content/uploads/2010/10/Monte-Maria.jpg
 <title>NRM</title>
 <link>
 <link>
-rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo10 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=true timeout=15 pageUrl=http://vaughnlive.tv/embed/video/telemundo10?viewers=true&watermark=left&autoplay=true
+rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo10 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 timeout=15 pageUrl=http://vaughnlive.tv/embed/video/telemundo10?viewers=true&watermark=left&autoplay=true
 <link>
 </link>
 <link>...</link>
