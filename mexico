@@ -51,10 +51,9 @@ http://www.tv14.net/wp-content/uploads/2010/10/Monte-Maria.jpg
 <item>
 <title>NRM</title>
 <link>
-rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo10 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 timeout=15 pageUrl=http://vaughnlive.tv/embed/video/telemundo10?viewers=true&watermark=left&autoplay=true
-<link>
+rtmp://206.190.128.228/zenex playpath=notemuerasnuncazenex?id=71 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf live=true timeout=15 pageUrl=http://www.zenex.tv/embedplayer/notemuerasnuncazenex/1/500/400
 </link>
-<link>...</link>
+</link>
 <thumbnail>http://www.crozcast.com/images/logos/1597.jpg</thumbnail>
 </item>
 <item>...</item>
