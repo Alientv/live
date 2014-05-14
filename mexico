@@ -51,7 +51,9 @@ http://www.tv14.net/wp-content/uploads/2010/10/Monte-Maria.jpg
 <item>
 <title>NRM</title>
 <link>
-http://4303.live.streamtheworld.com/NRMWEBTV?streamtheworld_user=1&amp;nobuf=1393001980089
+<link>
+rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d playpath=live_telemundo10 conn=S:OK swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=true timeout=15 pageUrl=http://vaughnlive.tv/embed/video/telemundo10?viewers=true&watermark=left&autoplay=true
+<link>
 </link>
 <link>...</link>
 <thumbnail>http://www.crozcast.com/images/logos/1597.jpg</thumbnail>
